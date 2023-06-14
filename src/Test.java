@@ -5,5 +5,6 @@ public class Test {
 		
 		System.out.println("welcome to java");
 		System.out.println("fileupdated");
+		System.out.println("new line added");
 	}
 }
